@@ -22,18 +22,21 @@
   </div>
 <p><b></b></p>
 
-
 ✌️ I’m a Java programmer. <br>
 ☝️ Hope to make continuous progress. <br>
 ✌️ I’m a Java programmer. <br>
 🤪 There are only two problems in distributed systems~ <br>
 
-<div align="center">
+</div>
+
+<div align="center"> 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Kugaaa&rank_icon=github&theme=ambient_gradient" />
+    <img height=180 src="https://github-readme-stats.vercel.app/api?username=Kugaaa&rank_icon=github&theme=ambient_gradient&card_width=240" alt="Kugaaa's Github stats" />
   </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kugaaa&hide_progress=true" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kugaaa&hide_progress=true&card_width=240" alt="Kugaaa's Language stats" />
   </a>
 </div>
-</div>
+
+
+
