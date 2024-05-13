@@ -28,10 +28,12 @@
 ✌️ I’m a Java programmer. <br>
 🤪 There are only two problems in distributed systems~ <br>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Kugaaa&rank_icon=github&theme=ambient_gradient" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kugaaa&hide_progress=true" />
-</a>
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Kugaaa&rank_icon=github&theme=ambient_gradient" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kugaaa&hide_progress=true" />
+  </a>
+</div>
 </div>
