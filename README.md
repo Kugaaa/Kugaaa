@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Reddit+Sans&size=24&duration=3000&pause=500&color=37EAF7&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+the+barren+land;Oh%2C+I+mean+my+brain)](https://git.io/typing-svg)
+
+✌️ I’m a Java programmer.
+☝️ Hope to make continuous progress.
+✌️ I’m a Java programmer.
+🤪 There are only two problems in distributed systems~
+
+[![Lorin-github](https://github-readme-stats.vercel.app/api?username=Kugaaa)](https://github.com/anuraghazra/github-readme-stats)
