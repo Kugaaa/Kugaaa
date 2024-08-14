@@ -12,6 +12,7 @@
   <img src="https://github.com/Kugaaa/my-pic/blob/main/air-rainbown2.gif" style="width:75%"/><br>
 
   <!-- profile logo 个人资料徽标 -->
+  </br>
   <div align="center">
 <!--     <a href="https://juejin.cn/user/3257207932075799"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
     <a href="https://space.bilibili.com/23473180/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
@@ -27,16 +28,18 @@
 ✌️ I’m a Java programmer. <br>
 🤪 There are only two problems in distributed systems~ <br>
 
-</div>
+<img src="https://github.com/Kugaaa/my-pic/blob/main/a-h-1.gif" style="width: 60%; height: auto;"/> | <img src="https://github.com/Kugaaa/my-pic/blob/main/a-h-2.gif" style="width: 60%; height: auto;"/>
+---|---
+<br>
 
-<div align="center"> 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=180 src="https://github-readme-stats.vercel.app/api?username=Kugaaa&rank_icon=github&theme=ambient_gradient&card_width=240" alt="Kugaaa's Github stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kugaaa&hide_progress=true&card_width=240" alt="Kugaaa's Language stats" />
-  </a>
+  <div>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height=180 src="https://github-readme-stats.vercel.app/api?username=Kugaaa&rank_icon=github&theme=ambient_gradient&card_width=240" alt="Kugaaa's Github stats" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kugaaa&hide_progress=true&card_width=240" alt="Kugaaa's Language stats" />
+    </a>
+  </div>
 </div>
-
 
 
