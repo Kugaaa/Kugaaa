@@ -26,7 +26,7 @@
 ✌️ I’m a Java programmer. <br>
 ☝️ Hope to make continuous progress. <br>
 ✌️ I’m a Java programmer. <br>
-🤪 There are only two problems in distributed systems~ <br>
+🤪 There are only two problems in distributed systems... <br>
 
 <img src="https://github.com/Kugaaa/my-pic/blob/main/a-h-1.gif" style="width: 60%; height: auto;"/> | <img src="https://github.com/Kugaaa/my-pic/blob/main/a-h-2.gif" style="width: 60%; height: auto;"/>
 ---|---
